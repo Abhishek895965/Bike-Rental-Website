@@ -22,9 +22,17 @@ This website aims to provide a platform for users to easily rent motorcycles and
 - Test ride options available.
 - Customer reviews and testimonials.
 
+
 ## Technologies Used
 - HTML5
 - CSS3
 - JavaScript
 - Swiper.js (for image sliders)
 - Remixicon (for icons)
+
+# ScreenShots
+  ![Screenshot (1815)](https://github.com/Abhishek895965/Bike-Rental-Website/assets/132393553/e836c1b5-ad43-4766-b417-61fce308aa72)
+  ![Screenshot (1816)](https://github.com/Abhishek895965/Bike-Rental-Website/assets/132393553/7d2ccf1a-427e-4be1-b442-6a2703fc7957)
+![Screenshot (1817)](https://github.com/Abhishek895965/Bike-Rental-Website/assets/132393553/59d069f3-104d-4fa7-a643-5c269f7c9bf0)
+![Screenshot (1818)](https://github.com/Abhishek895965/Bike-Rental-Website/assets/132393553/b910f81c-6368-4466-873c-27b6c4c270e5)
+![Screenshot (1819)](https://github.com/Abhishek895965/Bike-Rental-Website/assets/132393553/1609507a-3f0c-43bd-9dbd-efc9221e59bd)
